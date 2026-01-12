@@ -1,1 +1,1 @@
-# GEOG4910_Classificaton
+# GEOG4910_Classification
