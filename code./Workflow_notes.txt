@@ -1,0 +1,1 @@
+This Gis project supports juniper treatment planning. the workflow included clipping property boundaries, deriving slope from DEM, reclassifying slope values. and mapping areas suitable for treatment in ArcGIS pro.
